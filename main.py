@@ -1,0 +1,1 @@
+inout_value  = input()
